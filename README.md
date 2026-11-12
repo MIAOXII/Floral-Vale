@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:160e19,50:6b3a57,100:e99bb7&height=230&section=header&text=Floral%20Lane&fontSize=64&fontColor=ffc1d5&fontAlignY=38&desc=A%20World%20Wrapped%20in%20Flowers&descSize=20&descColor=ffffff&descAlignY=60" width="100%" alt="Floral Lane banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:160e19,50:6b3a57,100:e99bb7&height=230&section=header&text=Floral%20Vale&fontSize=64&fontColor=ffc1d5&fontAlignY=38&desc=A%20World%20Wrapped%20in%20Flowers&descSize=20&descColor=ffffff&descAlignY=60" width="100%" alt="Floral Vale banner"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=32&duration=3000&pause=1500&color=FFC1D5&center=true&vCenter=true&width=650&height=60&lines=Discover+Nature's+Most+Beautiful+Creations;Where+every+petal+tells+a+story;Welcome+to+the+world+of+flowers+%F0%9F%8C%B8" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=32&duration=3000&pause=1500&color=FFC1D5&center=true&vCenter=true&width=650&height=60&lines=Discover+Nature's+Most+Beautiful+Creations;++++;Welcome+to+the+world+of+flowers+%F0%9F%8C%B8" alt="Typing animation"/>
   </a>
 
 </div>
@@ -27,7 +27,7 @@
 </div>
 
 <p align="center">
-  <b>Floral Lane</b> is a floral-themed website dedicated to exploring the diverse world of flowers. It features different flower varieties, their unique characteristics, colours, symbolic meanings, and interesting facts.
+  <b>Floral Vale</b> is a floral-themed website dedicated to exploring the diverse world of flowers. It features different flower varieties, their unique characteristics, colours, symbolic meanings, and interesting facts.
 </p>
 
 <p align="center">
@@ -156,7 +156,7 @@
 - [ ] Flower Gallery
 
 <p align="center">
-  <i>Currently working on expanding Floral Lane with more flower-related content and sections.</i>
+  <i>Currently working on expanding Floral Vale with more flower-related content and sections.</i>
 </p>
 
 <br/>
@@ -194,7 +194,7 @@
 </div>
 
 <p align="center">
-  <b>Thanks for visiting Floral Lane! ♡</b>
+  <b>Thanks for visiting Floral Vale! ♡</b>
 </p>
 
 <p align="center">
